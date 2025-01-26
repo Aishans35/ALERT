@@ -42,13 +42,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]([Add screenshot 1 here with proper name](https://github.com/Aishans35/ALERT/blob/main/Screenshot%20(5).png))
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2]([Add screenshot 2 here with proper name](https://github.com/Aishans35/ALERT/blob/main/Screenshot%20(6).png))
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3]([Add screenshot 3 here with proper name](https://github.com/Aishans35/ALERT/blob/main/Screenshot%20(7).png))
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -79,16 +79,14 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[[Add your demo video link here](https://drive.google.com/file/d/1VWzWvy35A4QiyU5yn3-ow0pcOBsQF1rQ/view?usp=sharing)]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Aisha N S
 
 ---
 Made with ❤️ at TinkerHub
