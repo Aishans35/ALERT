@@ -7,8 +7,7 @@
 
 ### Team Members
 - Member 1: [Aisha ns] - [sree narayana gurukulam college of engineering]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+  
 
 ### Hosted Project Link
 [mention your project hosted project link here]
@@ -25,15 +24,11 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- [python]
+- [Flask]
+- [Gmail]
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
